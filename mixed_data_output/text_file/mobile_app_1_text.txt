@@ -1,0 +1,12 @@
+Q:How to view eStatement
+Step 1: Please enter your 4-digit login PIN to proceed.
+step 2: Click “Show Quick Balance” on the home page
+step 3: Click on the available balance in the account.
+Step 4: Click on the “View Statement” on the overview page
+Step 5: It show the Account Statement
+
+Q:How do you load a mobile package via a banking app?
+step 1: In main menu of the app select the Mobile Top Up option.
+Step 2: On the Mobile Top Up page select on the “Mobile Packages” option
+Step 3: Select the Mobile network and Mobile packages
+Step 4: On the Mobile Packages page Enter Mobile Number
