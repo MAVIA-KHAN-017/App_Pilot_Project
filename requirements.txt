@@ -1,0 +1,9 @@
+openai
+llama_index
+numpy
+pandas
+matplotlib
+FlagEmbedding
+chromadb
+fastapi
+Pillow
